@@ -1,2 +1,2 @@
 # SimonGame
-Simon GAme - jQuery
+Simon Game - jQuery
